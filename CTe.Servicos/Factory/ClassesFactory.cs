@@ -34,16 +34,16 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
-using CTe.Classes;
-using CTe.Classes.Servicos.Consulta;
-using CTe.Classes.Servicos.Evento;
-using CTe.Classes.Servicos.Inutilizacao;
-using CTe.Classes.Servicos.Recepcao;
-using CTe.Classes.Servicos.Recepcao.Retorno;
-using CTe.Classes.Servicos.Status;
+using ZCTe.Classes;
+using ZCTe.Classes.Servicos.Consulta;
+using ZCTe.Classes.Servicos.Evento;
+using ZCTe.Classes.Servicos.Inutilizacao;
+using ZCTe.Classes.Servicos.Recepcao;
+using ZCTe.Classes.Servicos.Recepcao.Retorno;
+using ZCTe.Classes.Servicos.Status;
 using CTe.Servicos.Inutilizacao;
 using DFe.Classes.Extensoes;
-using CTeEletronica = CTe.Classes.CTe;
+using CTeEletronica = ZCTe.Classes.CTe;
 
 namespace CTe.Servicos.Factory
 {

@@ -36,7 +36,7 @@ using System.Xml.Serialization;
 using DFe.Classes;
 using DFe.Utils;
 
-namespace CTe.Classes.Informacoes.infCTeNormal.infModals
+namespace ZCTe.Classes.Informacoes.infCTeNormal.infModals
 {
     public class duto : ContainerModal
     {

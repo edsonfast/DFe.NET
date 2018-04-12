@@ -33,9 +33,9 @@
 
 using System;
 using System.Xml;
-using CTe.Classes;
-using CTe.Classes.Servicos.Recepcao;
-using CTe.Classes.Servicos.Tipos;
+using ZCTe.Classes;
+using ZCTe.Classes.Servicos.Recepcao;
+using ZCTe.Classes.Servicos.Tipos;
 using CTe.Utils.Validacao;
 using DFe.Classes.Entidades;
 using DFe.Utils;

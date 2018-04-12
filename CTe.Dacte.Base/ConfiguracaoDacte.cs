@@ -34,7 +34,7 @@
 using System.Drawing;
 using System.IO;
 
-namespace CTe.Dacte.Base
+namespace ZCTe.Dacte.Base
 {
     public class ConfiguracaoDacte
     {

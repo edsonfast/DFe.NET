@@ -65,7 +65,7 @@
 
 using System.Xml.Serialization;
 
-namespace CTe.Classes.Informacoes.Tipos
+namespace ZCTe.Classes.Informacoes.Tipos
 {
     public enum CST
     {

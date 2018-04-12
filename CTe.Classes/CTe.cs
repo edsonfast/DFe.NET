@@ -31,13 +31,13 @@
 /* Rua Comendador Francisco josé da Cunha, 111 - Itabaiana - SE - 49500-000     */
 /********************************************************************************/
 using System.Xml.Serialization;
-using CTe.Classes.Ext;
-using CTe.Classes.Informacoes;
-using CTe.Classes.Servicos.Tipos;
+using ZCTe.Classes.Ext;
+using ZCTe.Classes.Informacoes;
+using ZCTe.Classes.Servicos.Tipos;
 using DFe.Classes.Assinatura;
 using DFe.Utils;
 
-namespace CTe.Classes
+namespace ZCTe.Classes
 {
     [XmlRoot(Namespace = "http://www.portalfiscal.inf.br/cte")]
     public class CTe

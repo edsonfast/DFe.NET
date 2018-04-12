@@ -33,10 +33,10 @@
 
 using System.Collections.Generic;
 using System.Xml.Serialization;
-using CTe.Classes.Informacoes.infCTeNormal.infCargas;
+using ZCTe.Classes.Informacoes.infCTeNormal.infCargas;
 using DFe.Classes;
 
-namespace CTe.Classes.Informacoes.infCTeNormal
+namespace ZCTe.Classes.Informacoes.infCTeNormal
 {
     public class infCarga
     {

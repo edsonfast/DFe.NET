@@ -33,12 +33,12 @@
 
 using System;
 using System.Xml.Serialization;
-using CTe.Classes.Servicos.Tipos;
+using ZCTe.Classes.Servicos.Tipos;
 using DFe.Classes.Entidades;
 using DFe.Classes.Flags;
 using DFe.Utils;
 
-namespace CTe.Classes.Servicos.Status
+namespace ZCTe.Classes.Servicos.Status
 {
     [XmlRoot(Namespace = "http://www.portalfiscal.inf.br/cte")]
     public class retConsStatServCte : RetornoBase

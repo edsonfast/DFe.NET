@@ -1,5 +1,5 @@
 ﻿using System;
-using CTe.Classes.Servicos.Recepcao;
+using ZCTe.Classes.Servicos.Recepcao;
 
 namespace CTe.Servicos.Recepcao
 {

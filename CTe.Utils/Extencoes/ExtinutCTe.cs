@@ -32,9 +32,9 @@
 /********************************************************************************/
 using System;
 using System.Xml;
-using CTe.Classes;
-using CTe.Classes.Servicos.Inutilizacao;
-using CTe.Classes.Servicos.Tipos;
+using ZCTe.Classes;
+using ZCTe.Classes.Servicos.Inutilizacao;
+using ZCTe.Classes.Servicos.Tipos;
 using CTe.Utils.Validacao;
 using DFe.Utils;
 using DFe.Utils.Assinatura;

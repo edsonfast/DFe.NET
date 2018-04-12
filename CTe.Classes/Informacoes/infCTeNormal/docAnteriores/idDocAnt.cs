@@ -34,7 +34,7 @@
 using System.Collections.Generic;
 using System.Xml.Serialization;
 
-namespace CTe.Classes.Informacoes.infCTeNormal.docAnteriores
+namespace ZCTe.Classes.Informacoes.infCTeNormal.docAnteriores
 {
     public class idDocAnt
     {

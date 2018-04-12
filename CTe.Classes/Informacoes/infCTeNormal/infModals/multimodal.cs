@@ -31,9 +31,9 @@
 /* Rua Comendador Francisco josé da Cunha, 111 - Itabaiana - SE - 49500-000     */
 /********************************************************************************/
 
-using CTe.Classes.Informacoes.Tipos;
+using ZCTe.Classes.Informacoes.Tipos;
 
-namespace CTe.Classes.Informacoes.infCTeNormal.infModals
+namespace ZCTe.Classes.Informacoes.infCTeNormal.infModals
 {
     public class multimodal : ContainerModal
     {

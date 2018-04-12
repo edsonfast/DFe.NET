@@ -31,10 +31,10 @@
 /* Rua Comendador Francisco josé da Cunha, 111 - Itabaiana - SE - 49500-000     */
 /********************************************************************************/
 
-using CTe.Classes.Informacoes.Complemento.Tipos;
-using CTe.Classes.Informacoes.Tipos;
+using ZCTe.Classes.Informacoes.Complemento.Tipos;
+using ZCTe.Classes.Informacoes.Tipos;
 
-namespace CTe.Classes.Informacoes.Complemento
+namespace ZCTe.Classes.Informacoes.Complemento
 {
     public class semData : comDataBase
     {

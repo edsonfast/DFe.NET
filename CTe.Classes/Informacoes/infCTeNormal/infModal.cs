@@ -32,10 +32,10 @@
 /********************************************************************************/
 
 using System.Xml.Serialization;
-using CTe.Classes.Informacoes.infCTeNormal.infModals;
-using CTe.Classes.Informacoes.Tipos;
+using ZCTe.Classes.Informacoes.infCTeNormal.infModals;
+using ZCTe.Classes.Informacoes.Tipos;
 
-namespace CTe.Classes.Informacoes.infCTeNormal
+namespace ZCTe.Classes.Informacoes.infCTeNormal
 {
     public class infModal
     {

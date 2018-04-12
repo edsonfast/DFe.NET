@@ -31,9 +31,9 @@
 /* Rua Comendador Francisco josé da Cunha, 111 - Itabaiana - SE - 49500-000     */
 /********************************************************************************/
 
-using CTe.Classes.Servicos.Evento;
-using CTe.Classes.Servicos.Evento.Flags;
-using CteEletronico = CTe.Classes.CTe;
+using ZCTe.Classes.Servicos.Evento;
+using ZCTe.Classes.Servicos.Evento.Flags;
+using CteEletronico = ZCTe.Classes.CTe;
 
 namespace CTe.Servicos.Eventos.Contratos
 {

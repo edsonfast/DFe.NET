@@ -466,9 +466,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\CTe.Classes\CTe.Classes.csproj">
+    <ProjectReference Include="..\CTe.Classes\ZCTe.Classes.csproj">
       <Project>{c86e3921-f0b8-4bfe-9ef1-0e9084326b13}</Project>
-      <Name>CTe.Classes</Name>
+      <Name>ZCTe.Classes</Name>
     </ProjectReference>
     <ProjectReference Include="..\CTe.Servicos\CTe.Servicos.csproj">
       <Project>{63227402-2B1E-4BC7-A6DF-362129923CF6}</Project>

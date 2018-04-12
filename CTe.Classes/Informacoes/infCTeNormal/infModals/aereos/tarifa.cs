@@ -31,10 +31,10 @@
 /* Rua Comendador Francisco josé da Cunha, 111 - Itabaiana - SE - 49500-000     */
 /********************************************************************************/
 
-using CTe.Classes.Informacoes.Tipos;
+using ZCTe.Classes.Informacoes.Tipos;
 using DFe.Classes;
 
-namespace CTe.Classes.Informacoes.infCTeNormal.infModals.aereos
+namespace ZCTe.Classes.Informacoes.infCTeNormal.infModals.aereos
 {
     public class tarifa
     {

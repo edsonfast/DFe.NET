@@ -35,7 +35,7 @@ using System.Xml.Serialization;
 using DFe.Classes.Entidades;
 using DFe.Classes.Extensoes;
 
-namespace CTe.Classes.Informacoes.Emitente
+namespace ZCTe.Classes.Informacoes.Emitente
 {
     public class enderEmit
     {

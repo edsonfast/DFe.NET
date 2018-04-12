@@ -37,24 +37,24 @@ using System.Windows.Forms;
 using CTe.AppTeste.Dao;
 using CTe.AppTeste.Entidades;
 using CTe.AppTeste.ModelBase;
-using CTe.Classes;
-using CTe.Classes.Informacoes;
-using CTe.Classes.Informacoes.Destinatario;
-using CTe.Classes.Informacoes.Emitente;
-using CTe.Classes.Informacoes.infCTeNormal;
-using CTe.Classes.Informacoes.infCTeNormal.infCargas;
-using CTe.Classes.Informacoes.infCTeNormal.infModals;
-using CTe.Classes.Informacoes.Identificacao;
-using CTe.Classes.Informacoes.Impostos;
-using CTe.Classes.Informacoes.Impostos.ICMS;
-using CTe.Classes.Informacoes.Impostos.Tributacao;
-using CTe.Classes.Informacoes.Remetente;
-using CTe.Classes.Informacoes.Tipos;
-using CTe.Classes.Informacoes.Valores;
-using CTe.Classes.Servicos;
-using CTe.Classes.Servicos.Evento;
-using CTe.Classes.Servicos.Recepcao;
-using CTe.Classes.Servicos.Tipos;
+using ZCTe.Classes;
+using ZCTe.Classes.Informacoes;
+using ZCTe.Classes.Informacoes.Destinatario;
+using ZCTe.Classes.Informacoes.Emitente;
+using ZCTe.Classes.Informacoes.infCTeNormal;
+using ZCTe.Classes.Informacoes.infCTeNormal.infCargas;
+using ZCTe.Classes.Informacoes.infCTeNormal.infModals;
+using ZCTe.Classes.Informacoes.Identificacao;
+using ZCTe.Classes.Informacoes.Impostos;
+using ZCTe.Classes.Informacoes.Impostos.ICMS;
+using ZCTe.Classes.Informacoes.Impostos.Tributacao;
+using ZCTe.Classes.Informacoes.Remetente;
+using ZCTe.Classes.Informacoes.Tipos;
+using ZCTe.Classes.Informacoes.Valores;
+using ZCTe.Classes.Servicos;
+using ZCTe.Classes.Servicos.Evento;
+using ZCTe.Classes.Servicos.Recepcao;
+using ZCTe.Classes.Servicos.Tipos;
 using CTe.Servicos.ConsultaProtocolo;
 using CTe.Servicos.ConsultaRecibo;
 using CTe.Servicos.ConsultaStatus;
@@ -63,13 +63,13 @@ using CTe.Servicos.Eventos;
 using CTe.Servicos.Inutilizacao;
 using CTe.Servicos.Recepcao;
 using CTe.Utils.CTe;
-using CteEletronico = CTe.Classes.CTe;
+using CteEletronico = ZCTe.Classes.CTe;
 using DFe.Classes.Entidades;
 using DFe.Classes.Flags;
 using DFe.Utils;
 using DFe.Utils.Assinatura;
-using dest = CTe.Classes.Informacoes.Destinatario.dest;
-using infNFe = CTe.Classes.Informacoes.infCTeNormal.infDocumentos.infNFe;
+using dest = ZCTe.Classes.Informacoes.Destinatario.dest;
+using infNFe = ZCTe.Classes.Informacoes.infCTeNormal.infDocumentos.infNFe;
 using OpenFileDialog = Microsoft.Win32.OpenFileDialog;
 
 namespace CTe.AppTeste
@@ -665,7 +665,7 @@ namespace CTe.AppTeste
             {
                 if (caminhoArquivoXml.Contains("completo"))
                 {
-                    var enviCTe = Classes.Servicos.Recepcao.enviCTe.LoadXmlArquivo(caminhoArquivoXml);
+                    var enviCTe = ZCTe.Classes.Servicos.Recepcao.enviCTe.LoadXmlArquivo(caminhoArquivoXml);
 
                     chave = enviCTe.CTe[0].Chave();
                 }

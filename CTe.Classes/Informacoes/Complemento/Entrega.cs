@@ -32,9 +32,9 @@
 /********************************************************************************/
 
 using System.Xml.Serialization;
-using CTe.Classes.Informacoes.Complemento.Tipos;
+using ZCTe.Classes.Informacoes.Complemento.Tipos;
 
-namespace CTe.Classes.Informacoes.Complemento
+namespace ZCTe.Classes.Informacoes.Complemento
 {
     public class Entrega
     {

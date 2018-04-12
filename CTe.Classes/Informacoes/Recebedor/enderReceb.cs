@@ -35,7 +35,7 @@ using System.Xml.Serialization;
 using DFe.Classes.Entidades;
 using DFe.Classes.Extensoes;
 
-namespace CTe.Classes.Informacoes.Recebedor
+namespace ZCTe.Classes.Informacoes.Recebedor
 {
     public class enderReceb
     {

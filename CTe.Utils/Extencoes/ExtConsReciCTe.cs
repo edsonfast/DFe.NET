@@ -32,9 +32,9 @@
 /********************************************************************************/
 using System;
 using System.Xml;
-using CTe.Classes;
-using CTe.Classes.Servicos.Recepcao.Retorno;
-using CTe.Classes.Servicos.Tipos;
+using ZCTe.Classes;
+using ZCTe.Classes.Servicos.Recepcao.Retorno;
+using ZCTe.Classes.Servicos.Tipos;
 using CTe.Utils.Validacao;
 using DFe.Utils;
 

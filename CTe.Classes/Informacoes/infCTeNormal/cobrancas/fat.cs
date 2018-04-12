@@ -33,7 +33,7 @@
 
 using DFe.Classes;
 
-namespace CTe.Classes.Informacoes.infCTeNormal.cobrancas
+namespace ZCTe.Classes.Informacoes.infCTeNormal.cobrancas
 {
     public class fat
     {

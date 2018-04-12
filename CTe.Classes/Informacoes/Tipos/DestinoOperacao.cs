@@ -32,7 +32,7 @@
 /********************************************************************************/
 using System.Xml.Serialization;
 
-namespace CTe.Classes.Informacoes.Tipos
+namespace ZCTe.Classes.Informacoes.Tipos
 {
     /// <summary>
     ///     Identificador de Local de destino da operação (1-Interna;2-Interestadual;3-Exterior)

@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26430.14
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NFe.Classes", "NFe.Classes\NFe.Classes.csproj", "{29CA1DA2-440D-484B-951A-CF1B2EB27984}"
 EndProject
@@ -54,7 +54,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphicsPrinter", "Graphics
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CTe", "CTe", "{FE769B0F-5C0F-4A54-81F6-CF878ACCAB3D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CTe.Classes", "CTe.Classes\CTe.Classes.csproj", "{C86E3921-F0B8-4BFE-9EF1-0E9084326B13}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZCTe.Classes", "CTe.Classes\ZCTe.Classes.csproj", "{C86E3921-F0B8-4BFE-9EF1-0E9084326B13}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CTe.Servicos", "CTe.Servicos\CTe.Servicos.csproj", "{63227402-2B1E-4BC7-A6DF-362129923CF6}"
 EndProject
@@ -64,9 +64,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CTe.Utils", "CTe.Utils\CTe.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CTe.AppTeste", "CTe.AppTeste\CTe.AppTeste.csproj", "{47A90E97-AD65-4673-91CB-B42065E9C575}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CTe.Dacte.Base", "CTe.Dacte.Base\CTe.Dacte.Base.csproj", "{E46ECA77-8732-4D99-9460-FA5E2CD90266}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZCTe.Dacte.Base", "CTe.Dacte.Base\ZCTe.Dacte.Base.csproj", "{E46ECA77-8732-4D99-9460-FA5E2CD90266}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CTe.Dacte.Fast", "CTe.Dacte.Fast\CTe.Dacte.Fast.csproj", "{1D58CBBD-56A5-4A10-8DAB-F795D35150EE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZCTe.Dacte.Fast", "CTe.Dacte.Fast\ZCTe.Dacte.Fast.csproj", "{1D58CBBD-56A5-4A10-8DAB-F795D35150EE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CTe.Dacte.AppTeste", "CTe.Dacte.AppTeste\CTe.Dacte.AppTeste.csproj", "{827FA496-0F49-4E93-8CE9-2246CCD353B8}"
 EndProject

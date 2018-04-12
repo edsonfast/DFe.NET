@@ -1,6 +1,6 @@
-﻿using CTe.Classes;
-using CTe.Classes.Servicos.Recepcao;
-using CTe.Classes.Servicos.Recepcao.Retorno;
+﻿using ZCTe.Classes;
+using ZCTe.Classes.Servicos.Recepcao;
+using ZCTe.Classes.Servicos.Recepcao.Retorno;
 
 namespace CTe.Servicos.EnviarCte
 {

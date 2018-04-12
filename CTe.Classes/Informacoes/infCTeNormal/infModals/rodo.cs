@@ -34,12 +34,12 @@
 using System;
 using System.Collections.Generic;
 using System.Xml.Serialization;
-using CTe.Classes.Informacoes.infCTeNormal.infModals.rodoviario;
-using CTe.Classes.Informacoes.infCTeNormal.infModals.rodoviarioOS;
-using CTe.Classes.Informacoes.Tipos;
+using ZCTe.Classes.Informacoes.infCTeNormal.infModals.rodoviario;
+using ZCTe.Classes.Informacoes.infCTeNormal.infModals.rodoviarioOS;
+using ZCTe.Classes.Informacoes.Tipos;
 using DFe.Utils;
 
-namespace CTe.Classes.Informacoes.infCTeNormal.infModals
+namespace ZCTe.Classes.Informacoes.infCTeNormal.infModals
 {
     public class rodo : ContainerModal
     {

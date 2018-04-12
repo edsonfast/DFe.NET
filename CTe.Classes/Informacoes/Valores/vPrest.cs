@@ -35,7 +35,7 @@ using System.Collections.Generic;
 using System.Xml.Serialization;
 using DFe.Classes;
 
-namespace CTe.Classes.Informacoes.Valores
+namespace ZCTe.Classes.Informacoes.Valores
 {
     public class vPrest
     {

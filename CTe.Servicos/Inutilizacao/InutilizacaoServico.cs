@@ -32,7 +32,7 @@
 /********************************************************************************/
 
 using System;
-using CTe.Classes.Servicos.Inutilizacao;
+using ZCTe.Classes.Servicos.Inutilizacao;
 using CTe.Servicos.Factory;
 using CTe.Utils.Extencoes;
 using CTe.Utils.Inutilizacao;

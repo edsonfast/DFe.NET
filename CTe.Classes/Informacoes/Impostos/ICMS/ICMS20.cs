@@ -31,11 +31,11 @@
 /* Rua Comendador Francisco josé da Cunha, 111 - Itabaiana - SE - 49500-000     */
 /********************************************************************************/
 
-using CTe.Classes.Informacoes.Impostos.ICMS.Tipos;
-using CTe.Classes.Informacoes.Tipos;
+using ZCTe.Classes.Informacoes.Impostos.ICMS.Tipos;
+using ZCTe.Classes.Informacoes.Tipos;
 using DFe.Classes;
 
-namespace CTe.Classes.Informacoes.Impostos.ICMS
+namespace ZCTe.Classes.Informacoes.Impostos.ICMS
 {
     public class ICMS20 : ICMSBasico
     {

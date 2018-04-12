@@ -35,7 +35,7 @@ using System;
 using System.Xml.Serialization;
 using DFe.Utils;
 
-namespace CTe.Classes.Informacoes.infCteAnu
+namespace ZCTe.Classes.Informacoes.infCteAnu
 {
     public class infCteAnu
     {

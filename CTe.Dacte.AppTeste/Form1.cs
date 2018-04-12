@@ -1,7 +1,7 @@
-﻿using CTe.Classes;
-using CTe.Classes.Servicos.Consulta;
-using CTe.Dacte.Base;
-using CTe.Dacte.Fast;
+﻿using ZCTe.Classes;
+using ZCTe.Classes.Servicos.Consulta;
+using ZCTe.Dacte.Base;
+using ZCTe.Dacte.Fast;
 using DFe.Utils;
 using System;
 using System.Collections.Generic;
@@ -77,7 +77,7 @@ namespace CTe.Dacte.AppTeste
                 }
                 catch
                 {
-                    cte = new cteProc() { CTe = FuncoesXml.ArquivoXmlParaClasse<Classes.CTe>(xml), protCTe = new Classes.Protocolo.protCTe() };
+                    cte = new cteProc() { CTe = FuncoesXml.ArquivoXmlParaClasse<ZCTe.Classes.CTe>(xml), protCTe = new ZCTe.Classes.Protocolo.protCTe() };
                 }
             }
             catch (Exception ex)

@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
-using CTe.Classes;
-using CTe.Classes.Servicos.Recepcao;
-using CTe.Classes.Servicos.Recepcao.Retorno;
+using ZCTe.Classes;
+using ZCTe.Classes.Servicos.Recepcao;
+using ZCTe.Classes.Servicos.Recepcao.Retorno;
 using CTe.Servicos.ConsultaRecibo;
 using CTe.Servicos.Recepcao;
 using CTe.Utils.CTe;
@@ -10,11 +10,11 @@ namespace CTe.Servicos.EnviarCte
 {
     public class ServicoEnviarCte
     {
-        public RetornoEnviarCte Enviar(int lote, Classes.CTe cte)
+        public RetornoEnviarCte Enviar(int lote, ZCTe.Classes.CTe cte)
         {
             ServicoCTeRecepcao servicoRecepcao = new ServicoCTeRecepcao();
 
-            retEnviCte retEnviCte = servicoRecepcao.CTeRecepcao(lote, new List<Classes.CTe> {cte});
+            retEnviCte retEnviCte = servicoRecepcao.CTeRecepcao(lote, new List<ZCTe.Classes.CTe> {cte});
 
             if (retEnviCte.cStat != 103)
             {

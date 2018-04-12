@@ -34,10 +34,10 @@
 using System;
 using System.Collections.Generic;
 using System.Xml.Serialization;
-using CTe.Classes.Informacoes.infCTeNormal.infModals.aereos;
+using ZCTe.Classes.Informacoes.infCTeNormal.infModals.aereos;
 using DFe.Utils;
 
-namespace CTe.Classes.Informacoes.infCTeNormal.infModals
+namespace ZCTe.Classes.Informacoes.infCTeNormal.infModals
 {
     public class aereo : ContainerModal
     {

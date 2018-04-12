@@ -33,9 +33,9 @@
 
 using System.Collections.Generic;
 using System.Xml.Serialization;
-using CTe.Classes.Informacoes.infCTeNormal.infDocumentos;
+using ZCTe.Classes.Informacoes.infCTeNormal.infDocumentos;
 
-namespace CTe.Classes.Informacoes.infCTeNormal
+namespace ZCTe.Classes.Informacoes.infCTeNormal
 {
     public class infDoc
     {

@@ -36,7 +36,7 @@ using System.Xml.Serialization;
 using DFe.Classes;
 using DFe.Utils;
 
-namespace CTe.Classes.Informacoes.infCTeNormal.cobrancas
+namespace ZCTe.Classes.Informacoes.infCTeNormal.cobrancas
 {
     public class dup
     {

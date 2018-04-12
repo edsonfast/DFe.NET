@@ -32,14 +32,14 @@
 /********************************************************************************/
 
 using System;
-using CTe.Classes;
-using CTe.Classes.Informacoes.infCTeNormal.infModals;
-using CTe.Classes.Informacoes.Tipos;
-using CTe.Classes.Servicos.Tipos;
+using ZCTe.Classes;
+using ZCTe.Classes.Informacoes.infCTeNormal.infModals;
+using ZCTe.Classes.Informacoes.Tipos;
+using ZCTe.Classes.Servicos.Tipos;
 using CTe.Utils.Validacao;
 using DFe.Utils;
 using DFe.Utils.Assinatura;
-using CteEletronica = CTe.Classes.CTe;
+using CteEletronica = ZCTe.Classes.CTe;
 
 namespace CTe.Utils.CTe
 {

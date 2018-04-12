@@ -33,7 +33,7 @@
 
 using DFe.Classes;
 
-namespace CTe.Classes.Informacoes.infCTeNormal
+namespace ZCTe.Classes.Informacoes.infCTeNormal
 {
     public class veicNovos
     {

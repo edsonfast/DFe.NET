@@ -32,7 +32,7 @@
 /********************************************************************************/
 using System.Xml.Serialization;
 
-namespace CTe.Classes.Informacoes.Tipos
+namespace ZCTe.Classes.Informacoes.Tipos
 {
     /// <summary>
     ///     Processo de emissão utilizado com a seguinte codificação:

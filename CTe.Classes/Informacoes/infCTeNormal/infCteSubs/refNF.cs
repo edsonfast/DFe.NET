@@ -33,11 +33,11 @@
 
 using System;
 using System.Xml.Serialization;
-using CTe.Classes.Informacoes.Tipos;
+using ZCTe.Classes.Informacoes.Tipos;
 using DFe.Classes;
 using DFe.Utils;
 
-namespace CTe.Classes.Informacoes.infCTeNormal.infCteSubs
+namespace ZCTe.Classes.Informacoes.infCTeNormal.infCteSubs
 {
     public class refNF
     {

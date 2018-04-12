@@ -37,7 +37,7 @@ using DFe.Classes.Entidades;
 using DFe.Classes.Flags;
 using DFe.Utils;
 
-namespace CTe.Classes.Servicos.Recepcao
+namespace ZCTe.Classes.Servicos.Recepcao
 {
     [XmlRoot(Namespace = "http://www.portalfiscal.inf.br/cte")]
     public class retEnviCte : RetornoBase

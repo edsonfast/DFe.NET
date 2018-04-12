@@ -33,19 +33,19 @@
 
 using System.Collections.Generic;
 using System.Xml.Serialization;
-using CTe.Classes.Informacoes.Complemento;
-using CTe.Classes.Informacoes.Destinatario;
-using CTe.Classes.Informacoes.Emitente;
-using CTe.Classes.Informacoes.Expedidor;
-using CTe.Classes.Informacoes.infCTeNormal;
-using CTe.Classes.Informacoes.Identificacao;
-using CTe.Classes.Informacoes.Impostos;
-using CTe.Classes.Informacoes.Recebedor;
-using CTe.Classes.Informacoes.Remetente;
-using CTe.Classes.Informacoes.Valores;
-using CTe.Classes.Servicos.Tipos;
+using ZCTe.Classes.Informacoes.Complemento;
+using ZCTe.Classes.Informacoes.Destinatario;
+using ZCTe.Classes.Informacoes.Emitente;
+using ZCTe.Classes.Informacoes.Expedidor;
+using ZCTe.Classes.Informacoes.infCTeNormal;
+using ZCTe.Classes.Informacoes.Identificacao;
+using ZCTe.Classes.Informacoes.Impostos;
+using ZCTe.Classes.Informacoes.Recebedor;
+using ZCTe.Classes.Informacoes.Remetente;
+using ZCTe.Classes.Informacoes.Valores;
+using ZCTe.Classes.Servicos.Tipos;
 
-namespace CTe.Classes.Informacoes
+namespace ZCTe.Classes.Informacoes
 {
     public class infCte
     {

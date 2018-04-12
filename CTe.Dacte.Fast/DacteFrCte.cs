@@ -34,10 +34,10 @@
 using System.IO;
 using FastReport;
 using FastReport.Export.Pdf;
-using CTe.Dacte.Base;
-using CTe.Classes;
+using ZCTe.Dacte.Base;
+using ZCTe.Classes;
 
-namespace CTe.Dacte.Fast
+namespace ZCTe.Dacte.Fast
 {
     public class DacteFrCte
     {

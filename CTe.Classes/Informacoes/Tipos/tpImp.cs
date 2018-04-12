@@ -32,7 +32,7 @@
 /********************************************************************************/
 using System.Xml.Serialization;
 
-namespace CTe.Classes.Informacoes.Tipos
+namespace ZCTe.Classes.Informacoes.Tipos
 {
     /// <summary>
     ///     Formato de impressão do DACTE (1-DANFe Retrato; 2-DANFe Paisagem)

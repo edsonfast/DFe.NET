@@ -33,7 +33,7 @@
 
 using System.Xml.Serialization;
 
-namespace CTe.Classes.Informacoes.Emitente
+namespace ZCTe.Classes.Informacoes.Emitente
 {
     /// <summary>
     ///     <para>1 – Simples Nacional;</para>

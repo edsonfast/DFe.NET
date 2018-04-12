@@ -33,7 +33,7 @@
 
 using System.Xml.Serialization;
 
-namespace CTe.Classes.Servicos.Evento.Flags
+namespace ZCTe.Classes.Servicos.Evento.Flags
 {
     public enum TipoEvento
     {

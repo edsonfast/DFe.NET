@@ -33,10 +33,10 @@
 
 using System;
 using System.Xml.Serialization;
-using CTe.Classes.Informacoes.Tipos;
+using ZCTe.Classes.Informacoes.Tipos;
 using DFe.Utils;
 
-namespace CTe.Classes.Informacoes.infCTeNormal.docAnteriores
+namespace ZCTe.Classes.Informacoes.infCTeNormal.docAnteriores
 {
     public class idDocAntPap
     {

@@ -30,7 +30,7 @@
 /* http://www.zeusautomacao.com.br/                                             */
 /* Rua Comendador Francisco josé da Cunha, 111 - Itabaiana - SE - 49500-000     */
 /********************************************************************************/
-namespace CTe.Classes.Informacoes.infCTeNormal.infModals
+namespace ZCTe.Classes.Informacoes.infCTeNormal.infModals
 {
     public class moto
     {

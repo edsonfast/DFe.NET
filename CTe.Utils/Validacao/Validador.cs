@@ -35,7 +35,7 @@ using System;
 using System.IO;
 using System.Xml;
 using System.Xml.Schema;
-using CTe.Classes;
+using ZCTe.Classes;
 
 namespace CTe.Utils.Validacao
 {

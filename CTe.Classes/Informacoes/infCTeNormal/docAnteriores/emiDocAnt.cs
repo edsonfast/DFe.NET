@@ -36,7 +36,7 @@ using System.Xml.Serialization;
 using DFe.Classes.Entidades;
 using DFe.Classes.Extensoes;
 
-namespace CTe.Classes.Informacoes.infCTeNormal.docAnteriores
+namespace ZCTe.Classes.Informacoes.infCTeNormal.docAnteriores
 {
     public class emiDocAnt
     {

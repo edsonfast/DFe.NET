@@ -33,7 +33,7 @@
 
 using System;
 
-namespace CTe.Classes.Informacoes
+namespace ZCTe.Classes.Informacoes
 {
     public class autXML
     {

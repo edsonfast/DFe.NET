@@ -33,13 +33,13 @@
 
 using System;
 using System.Xml.Serialization;
-using CTe.Classes.Servicos.Evento.Flags;
-using CTe.Classes.Servicos.Tipos;
+using ZCTe.Classes.Servicos.Evento.Flags;
+using ZCTe.Classes.Servicos.Tipos;
 using DFe.Classes.Entidades;
 using DFe.Classes.Flags;
 using DFe.Utils;
 
-namespace CTe.Classes.Servicos.Evento
+namespace ZCTe.Classes.Servicos.Evento
 {
     public class infEventoEnv
     {

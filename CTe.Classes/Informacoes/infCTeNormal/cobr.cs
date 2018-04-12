@@ -33,10 +33,10 @@
 
 using System.Collections.Generic;
 using System.Xml.Serialization;
-using CTe.Classes.Informacoes.infCTeNormal.cobrancas;
+using ZCTe.Classes.Informacoes.infCTeNormal.cobrancas;
 using System;
 
-namespace CTe.Classes.Informacoes.infCTeNormal
+namespace ZCTe.Classes.Informacoes.infCTeNormal
 {
     [Serializable]
     public class cobr

@@ -32,10 +32,10 @@
 /********************************************************************************/
 
 using System.Xml.Serialization;
-using CTe.Classes.Informacoes.Impostos.ICMS;
-using CTe.Classes.Informacoes.Impostos.ICMS.Tipos;
+using ZCTe.Classes.Informacoes.Impostos.ICMS;
+using ZCTe.Classes.Informacoes.Impostos.ICMS.Tipos;
 
-namespace CTe.Classes.Informacoes.Impostos.Tributacao
+namespace ZCTe.Classes.Informacoes.Impostos.Tributacao
 {
     public class ICMS
     {

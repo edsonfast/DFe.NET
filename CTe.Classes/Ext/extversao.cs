@@ -31,9 +31,9 @@
 /* Rua Comendador Francisco josé da Cunha, 111 - Itabaiana - SE - 49500-000     */
 /********************************************************************************/
 using System;
-using CTe.Classes.Servicos.Tipos;
+using ZCTe.Classes.Servicos.Tipos;
 
-namespace CTe.Classes.Ext
+namespace ZCTe.Classes.Ext
 {
     public static class extversao
     {

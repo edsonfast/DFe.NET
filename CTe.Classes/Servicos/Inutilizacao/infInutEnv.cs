@@ -35,7 +35,7 @@ using System.Xml.Serialization;
 using DFe.Classes.Entidades;
 using DFe.Classes.Flags;
 
-namespace CTe.Classes.Servicos.Inutilizacao
+namespace ZCTe.Classes.Servicos.Inutilizacao
 {
     public class infInutEnv
     {

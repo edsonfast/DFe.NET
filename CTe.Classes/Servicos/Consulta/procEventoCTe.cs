@@ -33,9 +33,9 @@
 
 using System.Collections.Generic;
 using System.Xml.Serialization;
-using CTe.Classes.Servicos.Evento;
+using ZCTe.Classes.Servicos.Evento;
 
-namespace CTe.Classes.Servicos.Consulta
+namespace ZCTe.Classes.Servicos.Consulta
 {
     [XmlRoot(Namespace = "http://www.portalfiscal.inf.br/cte")]
     public class procEventoCTe

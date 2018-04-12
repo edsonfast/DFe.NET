@@ -32,9 +32,9 @@
 /********************************************************************************/
 
 using System.Xml.Serialization;
-using CTe.Classes.Servicos.Tipos;
+using ZCTe.Classes.Servicos.Tipos;
 
-namespace CTe.Classes.Servicos.Evento
+namespace ZCTe.Classes.Servicos.Evento
 {
     public class detEvento
     {

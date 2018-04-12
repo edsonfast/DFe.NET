@@ -33,7 +33,7 @@
 
 using System.Xml.Serialization;
 
-namespace CTe.Classes.Informacoes.Complemento
+namespace ZCTe.Classes.Informacoes.Complemento
 {
     public class ObsFisco
     {

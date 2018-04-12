@@ -36,7 +36,7 @@ using System.Collections.Generic;
 using System.Xml.Serialization;
 using DFe.Utils;
 
-namespace CTe.Classes.Informacoes.infCTeNormal.infDocumentos
+namespace ZCTe.Classes.Informacoes.infCTeNormal.infDocumentos
 {
     public class infNFe
     {

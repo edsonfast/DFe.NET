@@ -12,6 +12,21 @@
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -81,22 +96,39 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\CTe.Classes\CTe.Classes.csproj">
+    <ProjectReference Include="..\CTe.Classes\ZCTe.Classes.csproj">
       <Project>{C86E3921-F0B8-4BFE-9EF1-0E9084326B13}</Project>
-      <Name>CTe.Classes</Name>
+      <Name>ZCTe.Classes</Name>
     </ProjectReference>
-    <ProjectReference Include="..\CTe.Dacte.Base\CTe.Dacte.Base.csproj">
-      <Project>{A6315AF9-F2C4-4F9D-A9C2-4D3DA7A9C03E}</Project>
-      <Name>CTe.Dacte.Base</Name>
+    <ProjectReference Include="..\CTe.Dacte.Base\ZCTe.Dacte.Base.csproj">
+      <Project>{E46ECA77-8732-4D99-9460-FA5E2CD90266}</Project>
+      <Name>ZCTe.Dacte.Base</Name>
     </ProjectReference>
-    <ProjectReference Include="..\CTe.Dacte.Fast\CTe.Dacte.Fast.csproj">
-      <Project>{0F335D2F-D5C4-405A-B2E3-6E60DFD94712}</Project>
-      <Name>CTe.Dacte.Fast</Name>
+    <ProjectReference Include="..\CTe.Dacte.Fast\ZCTe.Dacte.Fast.csproj">
+      <Project>{1D58CBBD-56A5-4A10-8DAB-F795D35150EE}</Project>
+      <Name>ZCTe.Dacte.Fast</Name>
     </ProjectReference>
     <ProjectReference Include="..\DFe.Utils\DFe.Utils.csproj">
       <Project>{B4E1A7A6-5D66-4326-8A8D-39338E6FC84C}</Project>
       <Name>DFe.Utils</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -31,11 +31,11 @@
 /* Rua Comendador Francisco josé da Cunha, 111 - Itabaiana - SE - 49500-000     */
 /********************************************************************************/
 
-using CTe.Classes.Informacoes.infCTeNormal.docAnteriores;
+using ZCTe.Classes.Informacoes.infCTeNormal.docAnteriores;
 using System.Collections.Generic;
 using System.Xml.Serialization;
 
-namespace CTe.Classes.Informacoes.infCTeNormal
+namespace ZCTe.Classes.Informacoes.infCTeNormal
 {
     public class docAnt
     {

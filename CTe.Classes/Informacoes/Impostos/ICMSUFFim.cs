@@ -33,7 +33,7 @@
 
 using DFe.Classes;
 
-namespace CTe.Classes.Informacoes.Impostos
+namespace ZCTe.Classes.Informacoes.Impostos
 {
     public class ICMSUFFim
     {

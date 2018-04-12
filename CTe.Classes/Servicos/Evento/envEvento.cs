@@ -34,7 +34,7 @@
 using System.Collections.Generic;
 using System.Xml.Serialization;
 
-namespace CTe.Classes.Servicos.Evento
+namespace ZCTe.Classes.Servicos.Evento
 {
     [XmlRoot(Namespace = "http://www.portalfiscal.inf.br/cte")]
     public class envEvento

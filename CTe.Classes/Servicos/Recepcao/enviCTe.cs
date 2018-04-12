@@ -33,11 +33,11 @@
 
 using System.Collections.Generic;
 using System.Xml.Serialization;
-using CTe.Classes.Servicos.Tipos;
+using ZCTe.Classes.Servicos.Tipos;
 using DFe.Utils;
-using CteEletronica = CTe.Classes.CTe;
+using CteEletronica = ZCTe.Classes.CTe;
 
-namespace CTe.Classes.Servicos.Recepcao
+namespace ZCTe.Classes.Servicos.Recepcao
 {
     [XmlRoot(ElementName = "enviCTe", Namespace = "http://www.portalfiscal.inf.br/cte")]
     public class enviCTe

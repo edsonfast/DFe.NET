@@ -33,7 +33,7 @@
 
 using DFe.Classes;
 
-namespace CTe.Classes.Informacoes.Valores
+namespace ZCTe.Classes.Informacoes.Valores
 {
     public class Comp
     {

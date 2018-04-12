@@ -32,10 +32,10 @@
 /********************************************************************************/
 
 using System.Xml.Serialization;
-using CTe.Classes.Servicos.Tipos;
+using ZCTe.Classes.Servicos.Tipos;
 using DFe.Classes.Flags;
 
-namespace CTe.Classes.Servicos.Recepcao.Retorno
+namespace ZCTe.Classes.Servicos.Recepcao.Retorno
 {
     [XmlRoot(Namespace = "http://www.portalfiscal.inf.br/cte")]
     public class consReciCTe

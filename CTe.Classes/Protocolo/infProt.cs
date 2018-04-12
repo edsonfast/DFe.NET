@@ -35,7 +35,7 @@ using System;
 using DFe.Classes.Assinatura;
 using DFe.Classes.Flags;
 
-namespace CTe.Classes.Protocolo
+namespace ZCTe.Classes.Protocolo
 {
     public class infProt
     {

@@ -31,7 +31,7 @@
 /* Rua Comendador Francisco josé da Cunha, 111 - Itabaiana - SE - 49500-000     */
 /********************************************************************************/using System.Xml.Serialization;
 
-namespace CTe.Classes.Informacoes.Tipos
+namespace ZCTe.Classes.Informacoes.Tipos
 {
     /// <summary>
     ///     Forma de emissão da CT-e

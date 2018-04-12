@@ -34,7 +34,7 @@
 using System;
 using DFe.Classes;
 
-namespace CTe.Classes.Servicos.Evento
+namespace ZCTe.Classes.Servicos.Evento
 {
     public class dest
     {

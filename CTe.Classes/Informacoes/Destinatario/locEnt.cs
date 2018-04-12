@@ -35,7 +35,7 @@ using System.Xml.Serialization;
 using DFe.Classes.Entidades;
 using DFe.Classes.Extensoes;
 
-namespace CTe.Classes.Informacoes.Destinatario
+namespace ZCTe.Classes.Informacoes.Destinatario
 {
     public class locEnt
     {

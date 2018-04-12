@@ -33,11 +33,11 @@
 
 using System;
 using System.Xml.Serialization;
-using CTe.Classes.Informacoes.Complemento.Tipos;
-using CTe.Classes.Informacoes.Tipos;
+using ZCTe.Classes.Informacoes.Complemento.Tipos;
+using ZCTe.Classes.Informacoes.Tipos;
 using DFe.Utils;
 
-namespace CTe.Classes.Informacoes.Complemento
+namespace ZCTe.Classes.Informacoes.Complemento
 {
     public class comHora : comHoraBase
     {

@@ -33,10 +33,10 @@
 
 using System.Collections.Generic;
 using System.Xml.Serialization;
-using CTe.Classes.Informacoes.Tipos;
+using ZCTe.Classes.Informacoes.Tipos;
 using DFe.Classes;
 
-namespace CTe.Classes.Informacoes.infCTeNormal.infDocumentos
+namespace ZCTe.Classes.Informacoes.infCTeNormal.infDocumentos
 {
     public class infUnidTransp
     {

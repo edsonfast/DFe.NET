@@ -37,7 +37,7 @@ using DFe.Classes.Assinatura;
 using DFe.Classes.Entidades;
 using DFe.Classes.Flags;
 
-namespace CTe.Classes.Servicos.Evento
+namespace ZCTe.Classes.Servicos.Evento
 {
     public class infEventoRet
     {

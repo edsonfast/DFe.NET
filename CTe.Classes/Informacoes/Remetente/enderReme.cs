@@ -35,7 +35,7 @@ using System.Xml.Serialization;
 using DFe.Classes.Entidades;
 using DFe.Classes.Extensoes;
 
-namespace CTe.Classes.Informacoes.Remetente
+namespace ZCTe.Classes.Informacoes.Remetente
 {
     public class enderReme
     {

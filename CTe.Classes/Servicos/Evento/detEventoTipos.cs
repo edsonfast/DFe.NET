@@ -33,7 +33,7 @@
 
 using System.Xml.Serialization;
 
-namespace CTe.Classes.Servicos.Evento
+namespace ZCTe.Classes.Servicos.Evento
 {
     /// <summary>
     ///     Informar "1=Empresa Emitente" para este evento.

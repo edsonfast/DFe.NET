@@ -33,13 +33,13 @@
 
 using System;
 using System.Collections.Generic;
-using CTe.Classes;
-using CTe.Classes.Servicos.Recepcao;
+using ZCTe.Classes;
+using ZCTe.Classes.Servicos.Recepcao;
 using CTe.Servicos.Factory;
 using CTe.Utils.CTe;
 using CTe.Utils.Recepcao;
 using DFe.Classes.Flags;
-using CTeEletronico = CTe.Classes.CTe;
+using CTeEletronico = ZCTe.Classes.CTe;
 
 namespace CTe.Servicos.Recepcao
 {

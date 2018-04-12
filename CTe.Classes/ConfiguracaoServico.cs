@@ -34,13 +34,13 @@
 using System;
 using System.IO;
 using System.Security.Cryptography.X509Certificates;
-using CTe.Classes.Servicos.Tipos;
+using ZCTe.Classes.Servicos.Tipos;
 using DFe.Classes.Entidades;
 using DFe.Classes.Flags;
 using DFe.Utils;
 using DFe.Utils.Assinatura;
 
-namespace CTe.Classes
+namespace ZCTe.Classes
 {
     public sealed class ConfiguracaoServico : IDisposable
     {

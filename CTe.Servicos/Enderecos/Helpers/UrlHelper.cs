@@ -32,7 +32,7 @@
 /********************************************************************************/
 
 using System;
-using CTe.Classes;
+using ZCTe.Classes;
 using DFe.Classes.Entidades;
 using DFe.Classes.Flags;
 

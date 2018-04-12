@@ -35,7 +35,7 @@ using System;
 using System.Xml.Serialization;
 using DFe.Utils;
 
-namespace CTe.Classes.Informacoes.infCTeNormal.infModals.rodoviario
+namespace ZCTe.Classes.Informacoes.infCTeNormal.infModals.rodoviario
 {
     public class occ
     {

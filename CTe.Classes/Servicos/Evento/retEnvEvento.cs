@@ -36,7 +36,7 @@ using System.Xml.Serialization;
 using DFe.Classes.Entidades;
 using DFe.Classes.Flags;
 
-namespace CTe.Classes.Servicos.Evento
+namespace ZCTe.Classes.Servicos.Evento
 {
     [XmlRoot(Namespace = "http://www.portalfiscal.inf.br/nfe")]
     public class retEnvEvento : RetornoBase

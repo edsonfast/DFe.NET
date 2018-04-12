@@ -30,7 +30,7 @@
 /* http://www.zeusautomacao.com.br/                                             */
 /* Rua Comendador Francisco josé da Cunha, 111 - Itabaiana - SE - 49500-000     */
 /********************************************************************************/
-namespace CTe.Classes.Servicos.Recepcao
+namespace ZCTe.Classes.Servicos.Recepcao
 {
     public class infRec
     {

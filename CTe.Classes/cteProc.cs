@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Xml.Serialization;
-using CTe.Classes.Protocolo;
-using CTe.Classes.Servicos.Tipos;
+using ZCTe.Classes.Protocolo;
+using ZCTe.Classes.Servicos.Tipos;
 
-namespace CTe.Classes
+namespace ZCTe.Classes
 {
     [Serializable]
     [XmlRoot(Namespace = "http://www.portalfiscal.inf.br/cte",

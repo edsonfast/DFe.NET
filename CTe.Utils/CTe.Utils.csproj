@@ -66,9 +66,9 @@
     <Compile Include="Validacao\Validador.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\CTe.Classes\CTe.Classes.csproj">
+    <ProjectReference Include="..\CTe.Classes\ZCTe.Classes.csproj">
       <Project>{C86E3921-F0B8-4BFE-9EF1-0E9084326B13}</Project>
-      <Name>CTe.Classes</Name>
+      <Name>ZCTe.Classes</Name>
     </ProjectReference>
     <ProjectReference Include="..\DFe.Classes\DFe.Classes.csproj">
       <Project>{9984EC15-18E1-4A87-B4DB-18AC913DC4E8}</Project>

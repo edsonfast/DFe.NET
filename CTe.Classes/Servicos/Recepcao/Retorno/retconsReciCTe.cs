@@ -33,13 +33,13 @@
 
 using System.Collections.Generic;
 using System.Xml.Serialization;
-using CTe.Classes.Protocolo;
-using CTe.Classes.Servicos.Tipos;
+using ZCTe.Classes.Protocolo;
+using ZCTe.Classes.Servicos.Tipos;
 using DFe.Classes.Entidades;
 using DFe.Classes.Flags;
 using DFe.Utils;
 
-namespace CTe.Classes.Servicos.Recepcao.Retorno
+namespace ZCTe.Classes.Servicos.Recepcao.Retorno
 {
     [XmlRoot(Namespace = "http://www.portalfiscal.inf.br/cte")]
     public class retConsReciCTe : RetornoBase

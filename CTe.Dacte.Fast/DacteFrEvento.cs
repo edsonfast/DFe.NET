@@ -34,10 +34,10 @@
 using System.IO;
 using FastReport;
 using FastReport.Export.Pdf;
-using CTe.Classes;
-using CTe.Classes.Servicos.Consulta;
+using ZCTe.Classes;
+using ZCTe.Classes.Servicos.Consulta;
 
-namespace CTe.Dacte.Fast
+namespace ZCTe.Dacte.Fast
 {
     public class DacteFrEvento
     {

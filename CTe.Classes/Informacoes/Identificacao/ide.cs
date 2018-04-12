@@ -34,14 +34,14 @@
 using System;
 using System.Collections.Generic;
 using System.Xml.Serialization;
-using CTe.Classes.Informacoes.Tipos;
-using CTe.Classes.Servicos.Tipos;
+using ZCTe.Classes.Informacoes.Tipos;
+using ZCTe.Classes.Servicos.Tipos;
 using DFe.Classes.Entidades;
 using DFe.Classes.Extensoes;
 using DFe.Classes.Flags;
 using DFe.Utils;
 
-namespace CTe.Classes.Informacoes.Identificacao
+namespace ZCTe.Classes.Informacoes.Identificacao
 {
     public class ide
     {

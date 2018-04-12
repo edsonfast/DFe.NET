@@ -32,11 +32,11 @@
 /********************************************************************************/
 
 using System.Xml.Serialization;
-using CTe.Classes.Servicos.Tipos;
+using ZCTe.Classes.Servicos.Tipos;
 using DFe.Classes.Assinatura;
 using DFe.Utils;
 
-namespace CTe.Classes.Servicos.Inutilizacao
+namespace ZCTe.Classes.Servicos.Inutilizacao
 {
     [XmlRoot(Namespace = "http://www.portalfiscal.inf.br/cte")]
     public class retInutCTe : RetornoBase

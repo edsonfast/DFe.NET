@@ -34,7 +34,7 @@
 using System.ComponentModel;
 using System.Xml.Serialization;
 
-namespace CTe.Classes.Servicos.Tipos
+namespace ZCTe.Classes.Servicos.Tipos
 {
     public enum ServicoCTe
     {

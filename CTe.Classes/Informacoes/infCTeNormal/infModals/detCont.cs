@@ -35,7 +35,7 @@ using System.Collections.Generic;
 using System.Xml.Serialization;
 using DFe.Classes;
 
-namespace CTe.Classes.Informacoes.infCTeNormal.infModals
+namespace ZCTe.Classes.Informacoes.infCTeNormal.infModals
 {
     public class detCont
     {

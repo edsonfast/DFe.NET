@@ -33,7 +33,7 @@
 
 using System.Collections.Generic;
 
-namespace CTe.Classes.Informacoes.infCTeNormal.infModals.aereos
+namespace ZCTe.Classes.Informacoes.infCTeNormal.infModals.aereos
 {
     public class natCarga
     {

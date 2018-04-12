@@ -33,11 +33,11 @@
 
 using System;
 using System.Text;
-using CTe.Classes;
-using CTe.Classes.Servicos.Evento;
-using CTe.Classes.Servicos.Evento.Flags;
+using ZCTe.Classes;
+using ZCTe.Classes.Servicos.Evento;
+using ZCTe.Classes.Servicos.Evento.Flags;
 using CTe.Utils.CTe;
-using CTeEletronico = CTe.Classes.CTe;
+using CTeEletronico = ZCTe.Classes.CTe;
 
 namespace CTe.Servicos.Eventos
 {

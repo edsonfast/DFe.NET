@@ -35,7 +35,7 @@ using System.Xml.Serialization;
 using DFe.Classes.Entidades;
 using DFe.Classes.Extensoes;
 
-namespace CTe.Classes.Informacoes.infCTeNormal.infModals.rodoviario
+namespace ZCTe.Classes.Informacoes.infCTeNormal.infModals.rodoviario
 {
     public class emiOcc
     {

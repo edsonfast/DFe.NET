@@ -35,7 +35,7 @@ using System.Xml.Serialization;
 using DFe.Classes.Entidades;
 using DFe.Classes.Extensoes;
 
-namespace CTe.Classes.Informacoes.Expedidor
+namespace ZCTe.Classes.Informacoes.Expedidor
 {
     public class enderExped
     {
